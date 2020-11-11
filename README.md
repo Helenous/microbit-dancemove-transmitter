@@ -1,29 +1,29 @@
 
-> Open this page at [https://milnepe.github.io/microbit-dance-movement-trans/](https://milnepe.github.io/microbit-dance-movement-trans/)
+> Open this page at [https://LetsOKdo.github.io/microbit-dancemove-transmitter/](https://LetsOKdo.github.io/microbit-dancemove-transmitter/)
 
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [https://makecode.microbit.org/beta](https://makecode.microbit.org/beta)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/milnepe/microbit-dance-movement-trans** and import
+* search for **https://github.com/LetsOKdo/microbit-dancemove-transmitter** and import
 
-## Edit this project ![Build status badge](https://github.com/milnepe/microbit-dance-movement-trans/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/LetsOKdo/microbit-dancemove-transmitter/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* open [https://makecode.microbit.org/beta](https://makecode.microbit.org/beta)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/milnepe/microbit-dance-movement-trans** and click import
+* paste **https://github.com/LetsOKdo/microbit-dancemove-transmitter** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/milnepe/microbit-dance-movement-trans/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/LetsOKdo/microbit-dancemove-transmitter/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
